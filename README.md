@@ -4,7 +4,7 @@
 
   <p>
     <strong>Sistema Web de Gerenciamento de Projetos Acadêmicos</strong><br>
-    <strong>Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)</sub>
+    <strong>Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)</strong>
   </p>
 
 </div>
@@ -79,8 +79,6 @@ Detalha o fluxo de mensagens do caso de uso **Criar Projeto** realizado pelo ato
 Ilustra o fluxo de ações e validações para **Atualizar Status da Tarefa** (acessar projeto, selecionar tarefa, atualizar status, validar operação e salvar ou exibir erro).
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/63386914-23db-45b9-995e-7c7faaa86ad7" />
-
----
 
 ---
 
