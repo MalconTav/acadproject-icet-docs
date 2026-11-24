@@ -70,4 +70,4 @@ Detalha o fluxo de mensagens do caso de uso **Criar Projeto** realizado pelo ato
 ### 3.3. Diagramas de Atividades
 Ilustra o fluxo de ações e validações para **Atualizar Status da Tarefa** (acessar projeto, selecionar tarefa, atualizar status, validar operação e salvar ou exibir erro).
 
-![Diagrama de Atividades - Atualizar Status da Tarefa](imagens/diagrama-atividades.png)
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/63386914-23db-45b9-995e-7c7faaa86ad7" />
