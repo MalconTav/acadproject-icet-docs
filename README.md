@@ -66,7 +66,7 @@ Os usuários do sistema dividem-se em dois perfis principais:
 ### 3.1. Diagramas de Casos de Uso
 Representa a interação dos atores **Professor** e **Aluno** com as funcionalidades do sistema AcadProject ICET (como *Criar Projeto*, *Definir Prazos*, *Atribuir Tarefa*, *Atualizar Tarefa*, *Logar*, *Recuperar Senha* e *Visualizar Projetos*).
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/aac8ba59-0d26-478c-833c-48c1a399e9bb" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/63429460-b82b-48de-aa6d-0636af6a1f91" />
 
 
 ### 3.2. Diagramas de Sequência
