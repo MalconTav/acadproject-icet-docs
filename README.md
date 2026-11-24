@@ -36,12 +36,12 @@ Os usuários do sistema dividem-se em dois perfis principais:
 
 | ID | Descrição | Prioridade |
 | :--- | :--- | :---: |
-| **RF01** | O sistema deve permitir a autenticação de usuários (Login) com e-mail e senha. | Alta |
-| **RF02** | O sistema deve permitir que professores criem, editem e excluam projetos acadêmicos. | Alta |
-| **RF03** | O sistema deve permitir a atribuição de alunos específicos a um projeto criado. | Alta |
-| **RF04** | O sistema deve permitir que tarefas sejam criadas e atribuídas a alunos com prazos definidos. | Média |
-| **RF05** | O sistema deve permitir que alunos atualizem o status de suas tarefas (*A Fazer*, *Em Andamento*, *Concluído*). | Alta |
-| **RF06** | O sistema deve fornecer um painel com o progresso geral e prazos pendentes. | Baixa |
+| **RF01** | O sistema deve permitir a autenticação de usuários (Login) com e-mail e senha. | Essencial |
+| **RF02** | O sistema deve permitir que professores criem, editem e excluam projetos acadêmicos. | Essencial |
+| **RF03** | O sistema deve permitir a atribuição de alunos específicos a um projeto criado. | Essencial |
+| **RF04** | O sistema deve permitir que tarefas sejam criadas e atribuídas a alunos com prazos definidos. | Importante |
+| **RF05** | O sistema deve permitir que alunos atualizem o status de suas tarefas (*A Fazer*, *Em Andamento*, *Concluído*). | Essencial |
+| **RF06** | O sistema deve fornecer um painel com o progresso geral e prazos pendentes. | Desejável |
 
 ### 2.2. Requisitos Não Funcionais
 
