@@ -1,4 +1,4 @@
-# AcadProject ICET
+# AcadProject ICET 📚
 
 **Sistema Web de Gerenciamento de Projetos Acadêmicos**  
 Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)
