@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>AcadProject ICET 📚</h1>
+  <h1>AcadProject ICET 📝💡</h1>
 
   <p>
     <strong>Sistema Web de Gerenciamento de Projetos Acadêmicos</strong><br>
@@ -79,3 +79,13 @@ Detalha o fluxo de mensagens do caso de uso **Criar Projeto** realizado pelo ato
 Ilustra o fluxo de ações e validações para **Atualizar Status da Tarefa** (acessar projeto, selecionar tarefa, atualizar status, validar operação e salvar ou exibir erro).
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/63386914-23db-45b9-995e-7c7faaa86ad7" />
+
+---
+
+---
+
+## 📌💻 Conclusão 
+
+A documentação do **AcadProject ICET** consolida a modelagem do sistema web voltado ao gerenciamento de projetos acadêmicos no Instituto de Ciências Exatas e Tecnologia (ICET/UFAM). Ao estruturar em um ambiente centralizado a criação de projetos, a atribuição de tarefas e o acompanhamento de prazos para professores e alunos, a especificação estabelece uma base sólida para o desenvolvimento da aplicação.
+
+A definição dos requisitos funcionais, não funcionais e das regras de negócio, aliada à representação dos fluxos nos diagramas UML de Casos de Uso, Sequência e Atividades, garante o alinhamento entre as necessidades dos usuários e os requisitos técnicos de implementação, priorizando usabilidade, segurança e desempenho.
