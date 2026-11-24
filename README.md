@@ -1,7 +1,15 @@
-# AcadProject ICET 📚
+<div align="center">
 
-**Sistema Web de Gerenciamento de Projetos Acadêmicos**  
-Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)
+  <h1>AcadProject ICET 📚</h1>
+
+  <p>
+    <strong>Sistema Web de Gerenciamento de Projetos Acadêmicos</strong><br>
+    <strong>Universidade Federal do Amazonas (UFAM) — Instituto de Ciências Exatas e Tecnologia (ICET)</sub>
+  </p>
+
+</div>
+
+---
 
 ## 👥 Integrantes da Equipe
 * **Malcon Vinicios Tavares Valente**
